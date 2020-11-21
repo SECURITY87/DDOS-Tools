@@ -5,7 +5,7 @@ DDoS Tool that supports:
     NTP Amplification (Network Time Protocol)
     SNMP Amplification (Simple Network Management Protocol)
     SSDP Amplification (Simple Service Discovery Protocol)
-Donation would be much appreciated: <a href="saweria.co/SECURITY87">here</a>
+Donation would be much appreciated: <a href="https://saweria.co/SECURITY87">here</a>
 
 # Requirements
 
