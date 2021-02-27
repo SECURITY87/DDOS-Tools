@@ -18,8 +18,9 @@ Donation would be much appreciated: <a href="https://saweria.co/SECURITY87">here
 	  \__ \/ __ `/ __  / __  / __ `/ __ `__ \
 	 ___/ / /_/ / /_/ / /_/ / /_/ / / / / / /
 	/____/\__,_/\__,_/\__,_/\__,_/_/ /_/ /_/ 
-	https://github.com/OffensivePython/Saddam
-	   https://twitter.com/OffensivePython
+	https://github.com/SECURITY87/DDOS-Tools
+	   https://twitter.com/Haxnology_ID
+	   Collab With: SADDAM
 
 Usage: 
 Saddam.py target.com [options]        # DDoS
