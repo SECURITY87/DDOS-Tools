@@ -23,8 +23,8 @@ Donation would be much appreciated: <a href="https://saweria.co/SECURITY87">here
 	   Collab With: SADDAM
 
 Usage: 
-Saddam.py target.com [options]        # DDoS
-Saddam.py benchmark [options]         # Calculate AMPLIFICATION factor
+ddos.py target.com [options]        # DDoS
+ddos.py benchmark [options]         # Calculate AMPLIFICATION factor
 
 
 Options:
